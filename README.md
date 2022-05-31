@@ -1,4 +1,4 @@
-<h1 align='center'>Social-Media-Api</h1>
+<h1 align='center'>Social-Media-API</h1>
     
   ![badge](https://img.shields.io/badge/license-Academic-brightgreen)<br />
     
